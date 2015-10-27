@@ -1,0 +1,106 @@
+html,body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #1C498C;
+}
+header {
+    background-color: #173E76;
+    height: 30px;
+    border-bottom: 1px solid #3F7ABA;
+    font-style: normal;
+    }
+    header a {
+        font-size: 12px;
+        margin: 0;
+        line-height: 20px;
+        color: #FFFFFF;
+        left: auto;
+    }
+    header b {
+        font-size: 12px;
+        margin: 0;
+        line-height: 20px;
+        color: #FFFFFF;
+        left: auto;
+    }
+    header twitter {
+        font-size: 12px;
+        margin: 0;
+        line-height: 20px;
+        color: #FFFFFF;
+        left: auto;    
+    }
+    header facebook {
+        font-size: 12px;
+        margin: 0;
+        line-height: 20px;
+        color: #FFFFFF;
+        left: auto;    
+    }
+    header a.sticky-right {
+        display: block;
+    }
+.sticky-right {
+    float: right;   
+}
+.boxWht {
+    background-color: #FFFFFF;
+    margin: 1% 15% 5% 15%;
+    height: 100%;
+    width: 70%;
+    border-radius: 2px;
+}
+.boxWht img {
+    max-width: 100%;
+    text-align: center;
+}
+
+.name {
+    font-size: 30px;
+}
+
+.password {
+
+}
+
+phone number {
+
+}
+
+comment {
+
+}
+
+
+
+
+
+
+
+
+
+
+/*
+@media (max-width: 600px) {    
+}
+a {
+    font-size: 40px;
+}
+header {
+    text-align: center;
+}
+    header .sticky-right {
+        display: none;
+    }
+boxWht img {
+    border: 5px solid #000;
+}
+@media all and (min-width: 300px) and (max-width: 300px) {
+    header .sticky-right {
+    }
+}
+*/

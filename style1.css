@@ -1,0 +1,27 @@
+html,body {
+    background-color: #1C498C;
+    height: 100%;
+    width: 100%;
+}
+.header {
+    background-color: #173E76;
+    height: 5%;
+    width: 100%;
+    color: white;
+    font-family: sans-serif;
+    font-size: 11px;
+    margin: 1% 0;
+    padding: .5%;
+    border-bottom: 1px solid #3F7ABA;
+}
+    header address {
+        margin-left: 15%;
+    }
+    header phone {
+    }
+.boxWht {
+    background-color: white;
+    height: 90%;
+    width: 70%;
+    margin: 0 15%; 
+}
